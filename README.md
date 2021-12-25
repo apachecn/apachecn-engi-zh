@@ -36,7 +36,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 团结、勇气和绝不动摇的忠诚是人类最大的优点。——《动物园规则怪谈》
+> 秩序即死亡，混乱即阶梯。
 
 * [在线阅读](https://{domain}.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
